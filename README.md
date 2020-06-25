@@ -1,2 +1,2 @@
 # OpenCV
- OpenCV sample codes and projects
+ OpenCV: sample codes and projects
